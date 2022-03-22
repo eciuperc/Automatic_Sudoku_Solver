@@ -8,7 +8,7 @@ To use it, simply define the grid you want to solve at the beginning of the main
 - (Only if you choose to calculate every possibilities) To display only what is the number of solutions, or also display what these solutions are.
 
 
-To create it, I translated in C++ code the way I think when I'm solving myself a Sudoku, which is the following:
+To create it, I translated in C++ code the way I proceed when I'm solving myself a Sudoku, which is the following:
 - Check if there is a line, column or box where a number can be in only one place (for example the number 7 can be in only one place in line 4).
 - Check if there is a cell that has only one possible number.
 - If we have none of those, then we have to try several solutions. An important part of the project was to determine which solutions to try so we reduce drastically the calculation times.
