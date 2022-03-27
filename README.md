@@ -19,7 +19,7 @@ If you see any bug, please don't hesitate to tell me :)
 
 ## Screenshots
 
-![First Screenshot](Screenshots/Screenshot_Sudoku_1.png)
-![Second Screenshot](Screenshots/Screenshot_Sudoku_3.png)
-![Third Screenshot](Screenshots/Screenshot_Sudoku_2.png)
+![First Screenshot](Screenshots/Screenshot_Sudoku_1.png | width = 100)
+![Second Screenshot](Screenshots/Screenshot_Sudoku_3.png | width = 100)
+![Third Screenshot](Screenshots/Screenshot_Sudoku_2.png | width = 100)
 
