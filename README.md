@@ -20,5 +20,5 @@ If you see any bug, please don't hesitate to tell me :)
 ## Screenshots
 
 <img src="Screenshots/Screenshot_Sudoku_1.png" width="200" height="200">
-<img src="Screenshots/Screenshot_Sudoku_2.png" width="200" height="200">
+<img src="Screenshots/Screenshot_Sudoku_2.png" width="202" height="876">
 <img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="200">
