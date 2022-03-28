@@ -5,7 +5,7 @@ Here is my first project in C++, which is an automatic Sudoku Solver.
 
 To use it, simply define the grid you want to solve at the beginning of the "main" function. I added a few "template" grids to help you do that. 
 Then, select whether you want:
-- To calculate only one solution, or every solutions.
+- To calculate only one solution, or every solution.
 - To display the steps of the computer's calculations, or not.
 - (Only if you choose to calculate every possibilities) To display only what is the number of solutions, or also display what these solutions are.
 
