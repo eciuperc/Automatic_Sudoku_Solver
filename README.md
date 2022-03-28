@@ -28,7 +28,7 @@ Calculating only one solution
 
 <img src="Screenshots/Screenshot_Sudoku_1.png" width="200" height="413">
 
-Calculating every solution
+Calculating every solution (but not displaying them)
 
 <img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="248">
 
