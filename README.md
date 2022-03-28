@@ -26,11 +26,11 @@ If you see any bug, please don't hesitate to tell me :)
 
 Calculating only one solution
 
-<img src="Screenshots/Screenshot_Sudoku_1.png" width="333" height="333">
+<img src="Screenshots/Screenshot_Sudoku_1.png" width="161" height="333">
 
 Calculating every solution
 
-<img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="200">
+<img src="Screenshots/Screenshot_Sudoku_3.png" width="161" height="200">
 
 Displaying all the computer's steps
 
