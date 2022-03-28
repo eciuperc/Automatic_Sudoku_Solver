@@ -11,6 +11,8 @@ You can also select whether you want:
 
 To create it, I translated in C++ code the way I proceed when I solve a Sudoku, which is the following:
 - Check if there is a line, column or box where a number can be in only one place.
+For example, in the image below, we can't have a 1 in the red boxes, so we have a 1 in the upper-right cell.
+- <img src="Screenshots/Sudoku_illustrations.jpg" width="333" height="333">
 - Check if there is a cell that has only one possible number.
 - If we have none of those, try several hyptohesis. An important part of the project was to determine which hypothesis to try so we drastically reduce the calculation time.
 
