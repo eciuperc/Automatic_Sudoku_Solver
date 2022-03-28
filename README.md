@@ -26,7 +26,7 @@ If you see any bug, please don't hesitate to tell me :)
 
 Calculating only one solution
 
-<img src="Screenshots/Screenshot_Sudoku_1.png" width="200" height="413"
+<img src="Screenshots/Screenshot_Sudoku_1.png" width="200" height="413">
 
 Calculating every solution
 
