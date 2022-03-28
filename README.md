@@ -23,7 +23,7 @@ One solution mode
 
 <img src="Screenshots/Screenshot_Sudoku_1.png" width="333" height="333">
 
-Multi-solution mode: here we calculate every solution but don't display them all
+Multi-solution mode: here we calculate every solution but don't display them
 
 <img src="Screenshots/Screenshot_Sudoku_3.png" width="200" height="200">
 
