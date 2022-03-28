@@ -22,5 +22,4 @@ If you see any bug, please don't hesitate to tell me :)
 ![First Screenshot](Screenshots/Screenshot_Sudoku_1.png | width = 100px)
 ![Second Screenshot](Screenshots/Screenshot_Sudoku_3.png | width = 100px)
 ![Third Screenshot](Screenshots/Screenshot_Sudoku_2.png | width = 100px)
-[[Screenshots/Screenshot_Sudoku_1.png|width=100px]]
-
+<img src="Screenshots/Screenshot_Sudoku_1.png" width="100" height="100">
